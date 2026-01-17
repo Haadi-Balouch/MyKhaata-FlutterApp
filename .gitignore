@@ -1,0 +1,29 @@
+# Flutter
+/build/
+/.dart_tool/
+/.packages
+.pub-cache/
+.pub/
+/flutter_*.log
+
+# Android
+/android/.gradle/
+/android/local.properties
+/android/key.properties
+/android/app/key.jks
+/android/app/google-services.json
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Runner/GoogleService-Info.plist
+
+# Firebase
+firebase_options.dart
+
+# IDE
+.idea/
+.vscode/
+*.iml
